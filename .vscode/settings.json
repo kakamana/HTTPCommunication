@@ -13,7 +13,8 @@
       "**/.DS_Store": true,
       "**/.gitignore": true,
       "npm-debug.log": true
-  },
+  }
+  /*,
 
   "editor.fontFamily": "Roboto Mono",
   "editor.fontSize": 16,
@@ -23,9 +24,10 @@
   "editor.selectionHighlight": false,
   "editor.suggestOnTriggerCharacters": true,
 
-  "window.zoomLevel": 1,
+  "window.zoomLevel": -1,
   
   "terminal.integrated.fontSize": 16,
 
   "editor.cursorBlinking": "solid"  
+  */
 }
